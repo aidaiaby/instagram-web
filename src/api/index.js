@@ -1,0 +1,8 @@
+import { CREATE_USER,  LOGIN_USER, GET_CURRENT_USER} from "./api";
+
+
+export const REQUEST = {
+  CREATE_USER,
+  LOGIN_USER,
+  GET_CURRENT_USER
+};
